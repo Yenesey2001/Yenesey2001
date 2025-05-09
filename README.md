@@ -1,26 +1,26 @@
-<h1 align="center"><b>¡Hola mundo! Soy Yenesey Bastida</b> 
+<h1 align="center"><b>Hello world! I'm Yenesey Bastida</b> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <div>
-  <h2>🧑‍💻 Sobre mí</h2>
-  <img src="https://media4.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" align="right" width="300px" alt="Café y Código" style="margin-left: 20px; margin-top: 300px;">
+  <h2>🧑‍💻 About Me</h2>
+  <img src="https://media4.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" align="right" width="300px" alt="Coffee and Code" style="margin-left: 20px; margin-top: 300px;">
   <p>
-    Soy desarrollador Full Stack formado en <strong>4Geeks Academy</strong>, actualmente residenciado en León, España. Aunque mi experiencia laboral principal ha sido en atención al cliente —lo que me ha permitido desarrollar habilidades como rapidez, resolución de problemas y trato eficaz con personas—, estoy completamente enfocado en mi crecimiento como profesional en tecnología.
+    I’m a Full Stack Developer trained at <strong>4Geeks Academy</strong>, currently living in León, Spain. While my main work experience has been in customer service —which helped me develop skills like speed, problem-solving, and effective communication— I’m now fully focused on growing professionally in the tech field.
   </p>
   <p>
-    Me apasiona el desarrollo web y actualmente estoy trabajando en <strong>DronFarm</strong>, una aplicación web para el monitoreo agrícola. A futuro, aspiro a especializarme en <strong>accesibilidad digital</strong>, creando soluciones inclusivas para personas con discapacidades.
+    I'm passionate about web development and currently working on <strong>DronFarm</strong>, a web app for agricultural monitoring. In the future, I aim to specialize in <strong>digital accessibility</strong>, creating inclusive solutions for people with disabilities.
   </p>
   <p>
-    Me considero una persona creativa, resolutiva y enfocada en generar siempre un buen ambiente de trabajo. Me encanta aprender, resolver problemas con eficiencia y construir productos que realmente aporten valor.
+    I'm a creative and solution-oriented person, committed to building a positive team environment. I love learning, solving problems efficiently, and building products that truly add value.
   </p>
 </div>
 
 ---
 
-## 🛠️ Habilidades y Herramientas
+## 🛠️ Skills & Tools
 
-### 👨‍💻 Lenguajes
+### 👨‍💻 Languages
 <span>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -43,13 +43,13 @@
   <img src="https://img.shields.io/badge/APIs-00599C?style=for-the-badge">
 </span>
 
-### 🛢️ Bases de datos
+### 🛢️ Databases
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
-### ⚙️ Herramientas
+### ⚙️ Tools
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -59,38 +59,38 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 ### 🔸 [DronFarm](https://github.com/4GeeksAcademy/DronFarm1.1)
-**Descripción:** Aplicación web de gestión y monitoreo de cultivos pensada para agricultores. Incluye funciones como visualización en mapas, condiciones meteorológicas, generación automática de presupuestos y exportación en PDF.
+**Description:** Web app for crop management and monitoring, designed for farmers. Includes features like map visualization, weather data, automatic budget generation, and PDF export.
 
-- 👥 Proyecto final de curso en 4Geeks Academy (actualmente en desarrollo con mi compañero).
-- 👨‍💼 Rol: Team Líder
-- 🛠️ Tecnologías: React, Python, JavaScript, MySQL, JWT, Mapbox, entre otras.
-
----
-
-## 🏅 Certificados y Logros
-
-- ✅ Desarrollador Full Stack certificado por **4Geeks Academy**.
-- 🚀 Finalicé un bootcamp intensivo donde desarrollé proyectos completos con tecnologías modernas, incluyendo React, Python, y MySQL.
-- 💡 Actualmente continúo desarrollando el proyecto **DronFarm** como iniciativa personal.
+- 👥 Final project at 4Geeks Academy (currently in progress with my teammate).
+- 👨‍💼 Role: Team Leader
+- 🛠️ Technologies: React, Python, JavaScript, MySQL, JWT, Mapbox, among others.
 
 ---
 
-## 🎧 Hobbies y Curiosidades
+## 🏅 Certificates & Achievements
 
-- 🎵 Me encanta escuchar música, especialmente **reggae**, ¡sí, programo con buen ritmo!
-- 🧠 En mi tiempo libre disfruto **aprender nuevas tecnologías** que luego aplico en mis proyectos.
-- 🌱 Siempre estoy buscando formas de **mejorar la accesibilidad digital** para crear un entorno más inclusivo.
+- ✅ Full Stack Developer certified by **4Geeks Academy**.
+- 🚀 Completed an intensive bootcamp where I developed full projects using modern technologies like React, Python, and MySQL.
+- 💡 Currently continuing the development of **DronFarm** as a personal initiative.
 
 ---
 
-## 📫 Contacto
+## 🎧 Hobbies & Fun Facts
 
-Si quieres ponerte en contacto conmigo, no dudes en escribirme por correo o conectar a través de LinkedIn:
+- 🎵 I love listening to music, especially **reggae** — yes, I code with rhythm!
+- 🧠 In my free time, I enjoy **learning new technologies** and applying them to personal projects.
+- 🌱 I'm always looking for ways to **improve digital accessibility** and create a more inclusive web.
 
-- 📧 Correo: [yeneseyclase@gmail.com](mailto:yeneseyclase@gmail.com)  
+---
+
+## 📫 Contact
+
+If you'd like to get in touch, feel free to email me or connect via LinkedIn:
+
+- 📧 Email: [yeneseyclase@gmail.com](mailto:yeneseyclase@gmail.com)  
 - 💼 LinkedIn: [Yenesey Bastida](https://www.linkedin.com/in/yenesey-bastida)
 
 ---
@@ -100,10 +100,10 @@ Si quieres ponerte en contacto conmigo, no dudes en escribirme por correo o cone
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yenesey2001&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub">
+      <img src="https://github-readme-stats.vercel.app/api?username=yenesey2001&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yenesey2001&theme=material-palenight" alt="Racha de contribuciones">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yenesey2001&theme=material-palenight" alt="Contribution Streak">
     </td>
   </tr>
 </table>
